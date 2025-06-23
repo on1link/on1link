@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jorge Nacer
-- 👀 I’m interested in Machine Learning - Deep Learning
-- 🌱 I’m currently learning Google's Machine Learning Engineer Certification
+- 👀 I’m interested in Machine Learning Engineering - Deep Learning
+- 🌱 I’m currently learning AWS's Machine Learning Engineer Certification
 - 💞️ I’m looking to collaborate on Energy Projects
 - 📫 How to reach me jorge.nacerc@gmail.com
 <!---
